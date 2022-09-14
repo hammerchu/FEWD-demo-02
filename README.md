@@ -1,6 +1,15 @@
 # FEWD-demo-02
 
-Git clone, then
+Use cryptopunks' website as refernece - build a landing page for your client's next crypto NFT project
+
+
+https://www.larvalabs.com/cryptopunks
+
+example of online html editors
+
+https://onlinehtmleditor.dev
+https://html-online.com/editor/
+
 
 - [ ] Create a branch from dev or your team-dev
     * Create branch in GitHub repository
